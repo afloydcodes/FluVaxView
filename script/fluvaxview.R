@@ -142,4 +142,3 @@ export(fluvaxagerisk, here("results", "fluvaxriskbyage.xlsx"))
 export(fluvaxrace, here("results","fluvaxrace.xlsx"))
 # R studio Version  -------------------------------------------------------
 session_info()
-
